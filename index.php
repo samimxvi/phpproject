@@ -162,7 +162,7 @@ s0.parentNode.insertBefore(s1,s0);
 							</div>
 							<div class="col-10">
 								<h6>address</h6>
-								<p>LPU | Panjab</p>
+								<p>LPU | Punjab</p>
 							</div>
 						</div>
 					</div>
